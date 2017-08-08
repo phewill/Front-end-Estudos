@@ -19,4 +19,3 @@ Este repositório vai conter alguns pequenos projetos fron-end.
 
 **Autor: William Garcia**  
 **Email: william.rosa.garcia@gmail.com**
-<span style="color:blue">some *blue* text</span>
