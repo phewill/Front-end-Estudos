@@ -19,3 +19,4 @@ Este repositório vai conter alguns pequenos projetos fron-end.
 
 **Autor: William Garcia**  
 **Email: william.rosa.garcia@gmail.com**  
+- ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `#c5f015`
