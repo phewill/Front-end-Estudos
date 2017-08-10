@@ -3,7 +3,7 @@
 
 Este repositório vai conter alguns pequenos projetos/estudos fron-end.
 
-- Site [JM VIAGENS](https://github.com/phewill/Front-end-projects/tree/master/Jm-Viagens)  
+- Site [Jm Viagens](https://github.com/phewill/Front-end-projects/tree/master/Jm-Viagens)  
 
 - Site [TecBlog](https://github.com/phewill/Front-end-projects/tree/master/TecBlog)  
 
