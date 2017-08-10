@@ -3,13 +3,17 @@
 
 Este repositório vai conter alguns pequenos projetos fron-end.
 
-- Site [JM VIAGENS]()  
+- Site [JM VIAGENS](https://github.com/phewill/Front-end-projects/tree/master/Jm-Viagens)  
 
-    ![homeSite](imagens-dos-projetos/g-img/1ppp.png)
-    ![homeSite](imagens-dos-projetos/g-img/2ppp.png) 
-    ![homeSite](imagens-dos-projetos/g-img/3ppp.png)  
+    ![foto-site](imagens-dos-projetos/p-img/1ppp.png)
+    ![foto-site](imagens-dos-projetos/p-img/2ppp.png) 
+    ![foto-site](imagens-dos-projetos/p-img/3ppp.png)  
 
-- Site [tecBlog]()  
+- Site [TecBlog](https://github.com/phewill/Front-end-projects/tree/master/TecBlog)  
+
+    ![foto-site](imagens-dos-projetos/p-img/tec2p.png) 
+    ![foto-site](imagens-dos-projetos/p-img/tec1p.png)  
+
 
 - Em construção  
 
