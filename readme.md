@@ -7,7 +7,7 @@ Este repositório vai conter alguns pequenos projetos/estudos fron-end.
 
 - Site [TecBlog](https://github.com/phewill/Front-end-projects/tree/master/TecBlog)  
 
-- Em em bootstrap construção  
+- Site em bootstrap, em construção  
 
 - Em construção  
 
