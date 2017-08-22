@@ -5,16 +5,16 @@ O exercicio constroi um site estático só com HTML, fiz algumas alterações e 
 
 [Código do site](https://github.com/phewill/HTML/tree/master/Simple-site)  
 
-### HOME  
-![Imagem da página home do site](../imagens-dos-projetos/g-img/1.png)  
+### Home  
+![Imagem da página home do site](../imagens-dos-projetos/1.png)  
 --------------------------------------------------------
 
-### QUEM SOMOS  
-![Imagem da página Quem somos do site](../imagens-dos-projetos/g-img/2.png)  
+### Quem Somos  
+![Imagem da página Quem somos do site](../imagens-dos-projetos/2.png)  
 --------------------------------------------------------
 
-### CONTATO  
-![Imagem da página contato do site](../imagens-dos-projetos/g-img/3.png)  
+### Contato  
+![Imagem da página contato do site](../imagens-dos-projetos/3.png)  
 --------------------------------------------------------
 
 **Autor** - William garcia  

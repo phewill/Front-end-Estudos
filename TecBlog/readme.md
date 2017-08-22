@@ -6,11 +6,11 @@ O objetivo é construir uma página com pequenos posts com HTML e CSS.
 [Código do site](https://github.com/phewill/Front-end-projects/tree/master/TecBlog)  
 
 ### HOME  
-![Imagem da página home do site](../imagens-dos-projetos/xxl/tec1.png)  
+![Imagem da página home do site](../imagens-dos-projetos/tec1.png)  
 --------------------------------------------------------
 
 ### Mostrando o menu fixado na parte superior mesmo descendo no site. 
-![Imagem da página Quem somos do site](../imagens-dos-projetos/xxl/tec2.png)  
+![Imagem da página Quem somos do site](../imagens-dos-projetos/tec2.png)  
 --------------------------------------------------------
 
 
