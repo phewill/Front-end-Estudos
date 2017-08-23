@@ -1,7 +1,4 @@
-# Conteúdo
-
-
-Este repositório vai conter alguns pequenos projetos/estudos fron-end.
+### Este repositório contém alguns pequenos projetos/estudos fron-end.
 
 - Site simples HTML
 
@@ -9,11 +6,11 @@ Este repositório vai conter alguns pequenos projetos/estudos fron-end.
 
 - Site HTML + CSS
 
-    -[TecBlog](https://github.com/phewill/Front-end-projects/tree/master/TecBlog)  
+    - [TecBlog](https://github.com/phewill/Front-end-projects/tree/master/TecBlog)  
 
 - Site Responsivo com Bootstrap
 
-    -[Spotify-Clone](https://github.com/phewill/Front-end-projects/tree/master/Spotify-Clone)
+    - [Spotify-Clone](https://github.com/phewill/Front-end-projects/tree/master/Spotify-Clone)
 
 
 **Autor: William Garcia**  
