@@ -3,14 +3,17 @@
 
 Este repositório vai conter alguns pequenos projetos/estudos fron-end.
 
-- Site [Jm Viagens](https://github.com/phewill/Front-end-projects/tree/master/Jm-Viagens)  
+- Site simples HTML
 
-- Site [TecBlog](https://github.com/phewill/Front-end-projects/tree/master/TecBlog)  
+    - [Jm Viagens](https://github.com/phewill/Front-end-projects/tree/master/Jm-Viagens)  
 
-- Site em bootstrap, em construção  
+- Site HTML + CSS
 
-- Em construção  
+    -[TecBlog](https://github.com/phewill/Front-end-projects/tree/master/TecBlog)  
 
+- Site Responsivo com Bootstrap
+
+    -[Spotify-Clone](https://github.com/phewill/Front-end-projects/tree/master/Spotify-Clone)
 
 
 **Autor: William Garcia**  
