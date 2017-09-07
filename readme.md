@@ -9,7 +9,10 @@
     - [TecBlog](https://github.com/phewill/Front-end-projects/tree/master/TecBlog)  
 
 - Site Responsivo com Bootstrap
-    - [Spotify-Clone](https://github.com/phewill/Front-end-projects/tree/master/Spotify-Clone)
+    - [Spotify-Clone](https://github.com/phewill/Front-end-projects/tree/master/Spotify-Clone)  
+
+- Site-Currículo Responsivo com Bootstrap
+    - [Site-currículo](https://phewill.github.io/)
 
 
 **Autor: William Garcia**  
